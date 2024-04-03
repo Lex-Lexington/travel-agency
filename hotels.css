@@ -1,0 +1,79 @@
+img {
+    width: 100%;
+    height: 80%;
+}
+
+section{
+    background-color: antiquewhite;
+    margin: 2rem;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.hit{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/hit.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gmh{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/gmh.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hat{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/hat");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hb{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/hb.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mi{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/mi.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hw{
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(45, 92, 132, 0.5),
+        rgba(45, 92, 132, 0.5)
+    ),
+    url("images/hw.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

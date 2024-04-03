@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  *,
+  *::after,
+  *::before {
+    box-sizing: inherit;
+}
+
+input, textarea {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    padding: 0 20px;
+}
+
+.content {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between; 
+    background: #fff;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+}
+
+.right-side {
+    width: 75%;
+    margin-left: 75px;
+}
+
+.topic-text {
+    font-size: 23px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.right-side p {
+    margin-bottom: 20px;
+}
+
+.input-box {
+    height: 50px; 
+    width: 100%; 
+    margin-bottom: 20px;
+}
+
+.input-box input,
+.input-box textarea {
+    height: 100%;
+    width: 100%; 
+    border: none; 
+    border-radius: 5px; 
+    background: #f0f1f8; 
+    padding: 0 20px;
+}
+
+.other{
+    text-align: center;
+    justify-content:center;
+    font-size: 1.5rem;
+}
+
+.oth
+
+.input-box textarea {
+    resize: none;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.message-box {
+    min-height: 110px;
+}
+
+
+button input[type="button"] {
+    color:#5681a7;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+    transition: 0.2s;
+}
+
+.button input[type="button"]:hover {
+    background: antiquewhite;
+}
